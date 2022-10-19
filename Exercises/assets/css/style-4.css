@@ -18,7 +18,9 @@ input, button, textarea, select { font: inherit }
 @media (max-width: 767px) { body { padding: 12% 8% } }
 
 
-body { font-family: sans-serif; }  
+body { font-family: sans-serif;
+    background-color: #1f364d;
+}  
 
 h1 {
     font-size: 64px;
@@ -26,6 +28,8 @@ h1 {
     font-weight: normal;
     letter-spacing: 4px;
     font-family: sans-serif;
+    color: white;
+
 
 }
 
@@ -35,6 +39,8 @@ h2 {
     margin-bottom: 4px;
     letter-spacing: 1px;
     font-family: sans-serif;
+    color: deeppink;
+
 
 }
 
@@ -44,6 +50,8 @@ h3 {
     margin-bottom: 4px;
     letter-spacing: 1px;
     font-family: sans-serif;
+    color: lightgreen;
+
 
 }
 
@@ -52,5 +60,7 @@ p {
     line-height: 1.6;
     margin-bottom: 20px;
     font-family: sans-serif;
+    color: #81b8cd;
+
 
 }
