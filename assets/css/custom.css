@@ -1,0 +1,52 @@
+header.theme-dark h1 { color: var(--white-000) }
+header.theme-dark h1 { color: var(--white-000) }
+header.theme-dark h2 { color: var(--white-000) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--black-000) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--brown-200) }
+nav.theme-dark.menu-sticky.menu-on-scroll,
+nav.theme-dark.menu-sticky.menu-on-scroll ul.links-wrapper.active { background-color: var(--slate-600) }
+nav.theme-dark.menu-sticky.menu-on-scroll,
+nav.theme-dark.menu-sticky.menu-on-scroll ul.links-wrapper.active { background-color: var(--brown-100) }
+
+.section-selector-1 a.btn:link,
+.section-selector-1 a.btn:visited { color: var(--white-000) }
+
+.section-selector-1 { background-color: var(--brown-050) }
+.section-selector-1 .col-1 h2 { color: var(--brown-300) }
+.section-selector-1 .col-1 h2.heading-underline::after { background-color: var(--brown-400) }
+.section-selector-1 .col-1 h3 { color: var(--brown-900) }
+.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] { background-color: var(--brown-100) }
+
+header.theme-light { background-color: var(--brown-100) }
+header.theme-light h1 { color: var(--brown-300) }
+header.theme-light h1.heading-underline::after { background-color: var(--brown-400) }
+nav.theme-light ul.links-wrapper li a:link,
+nav.theme-light ul.links-wrapper li a:visited { color: var(--black-000) }
+nav.theme-light ul.links-wrapper li a:focus,
+nav.theme-light ul.links-wrapper li a:hover,
+nav.theme-light ul.links-wrapper li a:active { color: var(--gray-700) }
+nav.theme-light a#btn-cta:link,
+nav.theme-light a#btn-cta:visited { background-color: var(--black-000) }
+nav.theme-light.menu-sticky.menu-on-scroll,
+nav.theme-light.menu-sticky.menu-on-scroll ul.links-wrapper.active { background-color: var(--slate-200) }
+nav.theme-light.menu-sticky.menu-on-scroll,
+nav.theme-light.menu-sticky.menu-on-scroll ul.links-wrapper.active { background-color: var(--white-000) }
+
+.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] h3 { color: var(--brown-800) }
+.section-selector-1 a.btn:link,
+.section-selector-1 a.btn:visited { color: var(--black-000) }
+
+.section-selector-1 a.btn:link,
+.section-selector-1 a.btn:visited { background-color: var(--white-000) }
+
+.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] { background-color: var(--white-000) }
+.section-selector-1 { background-color: var(--brown-200) }
+.section-selector-1 { background-color: var(--brown-200) }
+.section-selector-1 .col-1 h2 { color: var(--brown-400) }
+.section-selector-1 .col-1 h3 { color: var(--brown-050) }
+.section-selector-1 .col-1 h2.heading-underline::after { background-color: var(--brown-300) }
+
+
+.section-selector-2 div[class^='about me'] div[class^='col-2 col-text'] { background-color: var(--white-000) }
